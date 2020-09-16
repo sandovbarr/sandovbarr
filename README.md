@@ -3,11 +3,11 @@
 </div>
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandovbarr&theme=vue&show_icons=true&hide_border=true&count_private=true&hide=issues" class="responsive" />
+        <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandovbarr&theme=dark&show_icons=true" class="responsive" />
     </div>
     <br/>
     <div style="display: inline-block;">
-        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovbarr&theme=vue&layout=compact&hide_border=true&count_private=true" class="responsive"/>
+        <img width="350" img align="center" alt="Fredhiis's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovbarr&theme=radical&layout=compact&hide_border=true&count_private=true" class="responsive"/>
     </div>
 </div>
 <br/>
@@ -26,3 +26,4 @@
     <!-- twitter -->
     <a href="https://twitter.com/elhumanimal"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="30px" alt="Twitter"> </a> &nbsp; &nbsp;
 </p>
+
