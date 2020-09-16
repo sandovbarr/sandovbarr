@@ -1,7 +1,6 @@
-<p>
-    <img align="center" alt="fer_top_landing" src="./assets/virtualback.gif">
-</p>
-
+<div>
+    <img src="./assets/virtualback.gif">
+</div>
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
         <img width="450" height="224" img align="left" alt="Fredhiis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandovbarr&theme=vue&show_icons=true&hide_border=true&count_private=true&hide=issues" class="responsive" />
