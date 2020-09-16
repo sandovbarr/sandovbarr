@@ -12,20 +12,6 @@
 </div>
 <br/>
 
-<!-- Contact me -->
-<div align="center">
-</div>
-<p align="center">
-    <!-- gmail-->
-    <a href="mailto:dm@sandovbarr.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="50px" alt="e-mail"></a> &nbsp; &nbsp;
-    <!-- github -->
-    <a href="https://github.com/sandovbarr"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="50px" alt="Github"></a> &nbsp; &nbsp;
-    <!-- linkedin -->
-    <a href="https://www.linkedin.com/in/jairo-sandoval/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
-    <!-- twitter -->
-    <a href="https://twitter.com/elhumanimal"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="50px" alt="Twitter"> </a> &nbsp; &nbsp;
-    <a href="https://www.instagram.com/elhumanimal"><img src="https://www.scouts.org.ar/wp-content/uploads/2019/05/logo-ig.png" width="50px" alt="Instagrma"></a> &nbsp; &nbsp;
-</p>
 
 <div style="display: inline-block; max-width:100%; background-color: #320088; border-radius: 5px; padding: 10px; color: white;">
     <h3 align="center" style="font-size: 30px;">Ask me about:</h3> 
@@ -40,3 +26,19 @@
         <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
     </p>
 </div>
+
+<!-- Contact me -->
+<div align="center">
+  <h3 align="center">Contact:</h3> 
+</div>
+<p align="center">
+    <!-- gmail-->
+    <a href="mailto:dm@sandovbarr.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="50px" alt="e-mail"></a> &nbsp; &nbsp;
+    <!-- github -->
+    <a href="https://github.com/sandovbarr"><img src="https://icons-for-free.com/iconfiles/png/512/github+icon-1320168274457504277.png" width="50px" alt="Github"></a> &nbsp; &nbsp;
+    <!-- linkedin -->
+    <a href="https://www.linkedin.com/in/jairo-sandoval/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="50px" alt="LinkedIn"></a> &nbsp; &nbsp;
+    <!-- twitter -->
+    <a href="https://twitter.com/elhumanimal"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="50px" alt="Twitter"> </a> &nbsp; &nbsp;
+    <a href="https://www.instagram.com/elhumanimal"><img src="https://www.scouts.org.ar/wp-content/uploads/2019/05/logo-ig.png" width="50px" alt="Instagrma"></a> &nbsp; &nbsp;
+</p>
