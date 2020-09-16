@@ -1,8 +1,6 @@
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./assets/virtualback.mp4">
-    <source src="./assets/virtualback.mp4" type="video/mp4">
-  </video>
-</figure>
+<p>
+    <img align="center" alt="fer_top_landing" src="./assets/virtualback.gif">
+</p>
 
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
