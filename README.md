@@ -1,5 +1,5 @@
 <div>
-    <img width="450" height="224" src="https://github.com/sandovbarr/sandovbarr/blob/master/assets/virtualback.gif" class="responsive"/>
+    <img src="https://github.com/sandovbarr/sandovbarr/blob/master/assets/virtualback.gif" class="responsive"/>
 </div>
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
