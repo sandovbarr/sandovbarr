@@ -13,6 +13,8 @@
 <br/>
 
 <!-- Contact me -->
+<div align="center">
+</div>
 <p align="center">
     <!-- gmail-->
     <a href="mailto:dm@sandovbarr.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="50px" alt="e-mail"></a> &nbsp; &nbsp;
